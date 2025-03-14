@@ -1,7 +1,7 @@
 Termini di Servizio
 
 1. Introduzione
-Benvenuto nei Termini di Servizio del bot Server Manager Bot. Utilizzando questo bot, accetti i seguenti termini. Se non sei d'accordo con uno qualsiasi dei termini, ti invitiamo a non utilizzare il bot.
+Benvenuto nei Termini di Servizio del bot Blaine County. Utilizzando questo bot, accetti i seguenti termini. Se non sei d'accordo con uno qualsiasi dei termini, ti invitiamo a non utilizzare il bot.
 
 2. Utilizzo Accettabile
 Il bot è progettato per migliorare la tua esperienza su Discord offrendo funzionalità di gestione server, inclusi messaggi di benvenuto, addio e visualizzazione avatar.
